@@ -1,7 +1,7 @@
 <!-- Profile README for Kodigo -->
 
-<h1 align="center">✨ Kodigo</h1>
-<p align="center"><strong>Backend Developer | Product Owner | Clean Architecture Enthusiast</strong></p>
+<h1 align="center">Kodigo</h1>
+<p align="center"><strong>Backend Developer | Clean Architecture Enthusiast</strong></p>
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 Sobre mí
-- Arquitecto de soluciones backend especializado en **C# / .NET**, **FastAPI** y ecosistemas basados en SQL.
+- Desarrollador backend especializado en **C# / .NET**, **FastAPI** y ecosistemas basados en SQL.
 - Entusiasta de la **arquitectura limpia**, flujos CI/CD y metodologías ágiles con enfoque en valor al usuario.
 - Creando productos como **AutoTallerManager**, **CampusLove**, **DocsFlow** y **TechZone** con énfasis en calidad, escalabilidad y métricas.
 - "El aprendizaje continuo es el motor que impulsa cada línea de código." 🚀
