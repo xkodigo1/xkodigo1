@@ -1,0 +1,10 @@
+<svg width="1280" height="118" viewBox="0 0 1280 118" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="118" rx="22" fill="#071B25"/>
+  <rect x="32" y="24" width="270" height="70" rx="18" fill="#0B2532"/>
+  <circle cx="74" cy="59" r="16" fill="#0EA5E9"/>
+  <circle cx="114" cy="59" r="10" fill="#22C55E"/>
+  <circle cx="144" cy="59" r="7" fill="#F59E0B"/>
+  <text x="174" y="66" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Engineering Focus</text>
+  <path d="M334 59H1218" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M334 79H1078" stroke="#22C55E" stroke-opacity="0.22" stroke-width="2"/>
+</svg>

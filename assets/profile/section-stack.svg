@@ -1,0 +1,10 @@
+<svg width="1280" height="118" viewBox="0 0 1280 118" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="118" rx="22" fill="#0B1730"/>
+  <rect x="32" y="24" width="186" height="70" rx="18" fill="#102244"/>
+  <rect x="56" y="39" width="44" height="40" rx="10" fill="#2563EB"/>
+  <rect x="108" y="39" width="44" height="40" rx="10" fill="#14B8A6"/>
+  <rect x="160" y="39" width="34" height="40" rx="10" fill="#7C3AED"/>
+  <text x="242" y="66" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Core Stack</text>
+  <path d="M394 59H1218" stroke="#60A5FA" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M394 79H1018" stroke="#22C55E" stroke-opacity="0.25" stroke-width="2"/>
+</svg>

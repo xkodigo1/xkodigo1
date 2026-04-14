@@ -1,0 +1,13 @@
+<svg width="1280" height="160" viewBox="0 0 1280 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1280" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111E"/>
+      <stop offset="0.5" stop-color="#0C2440"/>
+      <stop offset="1" stop-color="#0B8099"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="160" rx="24" fill="url(#footerBg)"/>
+  <path d="M48 112C158 62 236 62 346 112C456 162 534 162 644 112C754 62 832 62 942 112C1052 162 1130 162 1232 112" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="3"/>
+  <text x="640" y="72" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Backend first. Architecture-minded. Product-focused.</text>
+  <text x="640" y="108" text-anchor="middle" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="17">Building systems that are useful, maintainable, and grounded in real workflows.</text>
+</svg>
