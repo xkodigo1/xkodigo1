@@ -105,7 +105,7 @@ My interest is not just writing code. I care about turning business processes in
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/xkodigo1/reservation-manager-fastapi">Reservation Manager API</a></h3>
-      <p>REST API for coworking room reservations with JWT authentication, user and admin roles, overlap prevention, one-hour slot rules, basic reporting, and Swagger documentation.</p>
+      <p>REST API for coworking rooms and reservations across two headquarters, with JWT authentication, user and admin roles, a reservation lifecycle, Alembic migrations, and Swagger documentation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-FastAPI-0891b2?style=flat-square" alt="Python FastAPI"/>
         <img src="https://img.shields.io/badge/Auth-JWT%20%26%20Roles-166534?style=flat-square" alt="JWT and Roles"/>
