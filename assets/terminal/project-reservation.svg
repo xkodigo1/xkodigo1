@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-label="Reservation Manager: Coworking rooms and reservations across two headquarters, with JWT auth and admin roles. Stack: python · fastapi · sqlalchemy · mysql.">
+  <title>Reservation Manager: Coworking rooms and reservations across two headquarters, with JWT auth and admin roles. Stack: python · fastapi · sqlalchemy · mysql.</title>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .g { fill: #4ade80; } .b { fill: #60a5fa; } .w { fill: #e2e8f0; } .k { fill: #64748b; }
+    .v { fill: #cbd5e1; } .a { fill: #fbbf24; } .bold { font-weight: 700; }
+  </style>
+  <rect x="0.5" y="0.5" width="599" height="269" rx="12" fill="#0b1220" stroke="#1f2a44"/>
+  <path d="M12.5 0.5h575a12 12 0 0 1 12 12v27.5H0.5V12.5a12 12 0 0 1 12-12z" fill="#111a2e"/>
+  <line x1="0.5" y1="40" x2="599.5" y2="40" stroke="#1f2a44"/>
+  <circle cx="22" cy="20.0" r="5.5" fill="#f87171"/><circle cx="40" cy="20.0" r="5.5" fill="#fbbf24"/><circle cx="58" cy="20.0" r="5.5" fill="#4ade80"/>
+  <text x="300.0" y="25.0" text-anchor="middle" class="m k" font-size="13">~/projects/reservation</text>
+  <text x="28" y="76" class="m" font-size="15"><tspan class="g bold">$</tspan><tspan class="w"> cat README.md</tspan></text>
+  <text x="28" y="116" class="m w bold" font-size="26">Reservation Manager</text>
+  <rect x="490" y="97" width="82" height="24" rx="12" fill="none" stroke="#fbbf24" stroke-opacity=".55"/>
+  <text x="531.0" y="113" text-anchor="middle" class="m a" font-size="13">rest api</text>
+  <text x="28" y="152" class="m v" font-size="15">Coworking rooms and reservations across two</text>
+  <text x="28" y="176" class="m v" font-size="15">headquarters, with JWT auth and admin roles.</text>
+  <text x="28" y="216" class="m" font-size="15"><tspan class="k">stack </tspan><tspan class="w">python · fastapi · sqlalchemy · mysql</tspan></text>
+  <text x="28" y="242" class="m" font-size="15"><tspan class="k">repo  </tspan><tspan class="b">github.com/xkodigo1/reservation-manager-fastapi</tspan></text>
+</svg>

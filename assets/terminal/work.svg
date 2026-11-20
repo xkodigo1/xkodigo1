@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="tree ~/work: apex, academic and administrative platform; agora, SG-SST document compliance; koalaws, embeddable feedback widget. cat focus.txt: REST APIs with authentication, authorization and business rules; Administrative and operational systems with modular backends; Document workflows, PDF processing and data pipelines; Local-first developer tooling for AI coding agents.">
+  <title>tree ~/work: apex, academic and administrative platform; agora, SG-SST document compliance; koalaws, embeddable feedback widget. cat focus.txt: REST APIs with authentication, authorization and business rules; Administrative and operational systems with modular backends; Document workflows, PDF processing and data pipelines; Local-first developer tooling for AI coding agents.</title>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .g { fill: #4ade80; } .b { fill: #60a5fa; } .w { fill: #e2e8f0; } .k { fill: #64748b; }
+    .v { fill: #cbd5e1; } .a { fill: #fbbf24; } .bold { font-weight: 700; }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="499" rx="12" fill="#0b1220" stroke="#1f2a44"/>
+  <path d="M12.5 0.5h1175a12 12 0 0 1 12 12v27.5H0.5V12.5a12 12 0 0 1 12-12z" fill="#111a2e"/>
+  <line x1="0.5" y1="40" x2="1199.5" y2="40" stroke="#1f2a44"/>
+  <circle cx="22" cy="20.0" r="5.5" fill="#f87171"/><circle cx="40" cy="20.0" r="5.5" fill="#fbbf24"/><circle cx="58" cy="20.0" r="5.5" fill="#4ade80"/>
+  <text x="600.0" y="25.0" text-anchor="middle" class="m k" font-size="13">fabian@xkodigo1: ~/work</text>
+  <text x="40" y="86" class="m" font-size="17" textLength="184" lengthAdjust="spacingAndGlyphs"><tspan class="g bold">fabian@xkodigo1</tspan><tspan class="w">:</tspan><tspan class="b bold">~</tspan><tspan class="w">$</tspan></text>
+  <text x="234" y="86" class="m w" font-size="17">tree ~/work</text>
+  <text x="367" y="86" class="m k" font-size="17"># private team projects, code not public</text>
+  <text x="40" y="122" class="m b bold" font-size="17">~/work</text>
+  <text x="40" y="150" class="m k" font-size="17">├──</text>
+  <text x="92" y="150" class="m a bold" font-size="17">apex</text>
+  <text x="210" y="150" class="m v" font-size="17">Academic &amp; administrative platform · TypeScript, Express, MySQL</text>
+  <text x="40" y="178" class="m k" font-size="17">│</text>
+  <text x="210" y="178" class="m k" font-size="17">JWT auth, role-based access, payments, document automation</text>
+  <text x="40" y="206" class="m k" font-size="17">├──</text>
+  <text x="92" y="206" class="m a bold" font-size="17">agora</text>
+  <text x="210" y="206" class="m v" font-size="17">SG-SST document compliance · Node.js, Express, PostgreSQL</text>
+  <text x="40" y="234" class="m k" font-size="17">│</text>
+  <text x="210" y="234" class="m k" font-size="17">Approval flows, role-based access, control over uploaded files</text>
+  <text x="40" y="262" class="m k" font-size="17">└──</text>
+  <text x="92" y="262" class="m a bold" font-size="17">koalaws</text>
+  <text x="210" y="262" class="m v" font-size="17">Embeddable feedback and incident widget · React, Node.js</text>
+  <text x="40" y="290" class="m k" font-size="17"></text>
+  <text x="210" y="290" class="m k" font-size="17">Report capture flows, MVP delivery in a team</text>
+  <text x="40" y="350" class="m" font-size="17" textLength="184" lengthAdjust="spacingAndGlyphs"><tspan class="g bold">fabian@xkodigo1</tspan><tspan class="w">:</tspan><tspan class="b bold">~</tspan><tspan class="w">$</tspan></text>
+  <text x="234" y="350" class="m w" font-size="17">cat focus.txt</text>
+  <text x="40" y="386" class="m" font-size="17"><tspan class="g">▸ </tspan><tspan class="v">REST APIs with authentication, authorization and business rules</tspan></text>
+  <text x="40" y="414" class="m" font-size="17"><tspan class="g">▸ </tspan><tspan class="v">Administrative and operational systems with modular backends</tspan></text>
+  <text x="40" y="442" class="m" font-size="17"><tspan class="g">▸ </tspan><tspan class="v">Document workflows, PDF processing and data pipelines</tspan></text>
+  <text x="40" y="470" class="m" font-size="17"><tspan class="g">▸ </tspan><tspan class="v">Local-first developer tooling for AI coding agents</tspan></text>
+</svg>

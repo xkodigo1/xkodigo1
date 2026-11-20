@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="$ ls -l ~/projects">
+  <title>$ ls -l ~/projects</title>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .g { fill: #4ade80; } .b { fill: #60a5fa; } .w { fill: #e2e8f0; } .k { fill: #64748b; }
+    .v { fill: #cbd5e1; } .a { fill: #fbbf24; } .bold { font-weight: 700; }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="63" rx="10" fill="#0b1220" stroke="#1f2a44"/>
+  <text x="28" y="39" class="m" font-size="18" textLength="194" lengthAdjust="spacingAndGlyphs"><tspan class="g bold">fabian@xkodigo1</tspan><tspan class="w">:</tspan><tspan class="b bold">~</tspan><tspan class="w">$</tspan></text>
+  <text x="233" y="39" class="m w" font-size="18">ls -l ~/projects</text>
+  <text x="427" y="39" class="m k" font-size="18"># public repos · click a card to open it</text>
+</svg>

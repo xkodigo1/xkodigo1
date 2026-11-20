@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="$ exit — Connection to github.com closed.">
+  <title>$ exit — Connection to github.com closed.</title>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .g { fill: #4ade80; } .b { fill: #60a5fa; } .w { fill: #e2e8f0; } .k { fill: #64748b; }
+    .v { fill: #cbd5e1; } .a { fill: #fbbf24; } .bold { font-weight: 700; }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="119" rx="10" fill="#0b1220" stroke="#1f2a44"/>
+  <text x="28" y="40" class="m" font-size="17" textLength="184" lengthAdjust="spacingAndGlyphs"><tspan class="g bold">fabian@xkodigo1</tspan><tspan class="w">:</tspan><tspan class="b bold">~</tspan><tspan class="w">$</tspan></text>
+  <text x="222" y="40" class="m w" font-size="17">exit</text>
+  <text x="28" y="70" class="m k" font-size="17">logout</text>
+  <text x="28" y="96" class="m k" font-size="17">Connection to github.com closed.</text>
+</svg>

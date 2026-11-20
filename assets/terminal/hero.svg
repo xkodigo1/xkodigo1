@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="t d">
+  <title id="t">fabian@xkodigo1: neofetch</title>
+  <desc id="d">Terminal running neofetch for Fabian Galan, backend developer in Colombia focused on business systems and secure APIs.</desc>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 18px; }
+    .g { fill: #4ade80; } .b { fill: #60a5fa; } .w { fill: #e2e8f0; } .k { fill: #64748b; } .v { fill: #cbd5e1; } .a { fill: #fbbf24; }
+    .bold { font-weight: 700; }
+    .type { animation: type .64s steps(8) .35s both; }
+    .out { animation: show .01s linear both; }
+    .l0 { animation-delay: 1.10s; } .l1 { animation-delay: 1.18s; } .l2 { animation-delay: 1.26s; } .l3 { animation-delay: 1.34s; }
+    .l4 { animation-delay: 1.42s; } .l5 { animation-delay: 1.50s; } .l6 { animation-delay: 1.58s; } .l7 { animation-delay: 1.66s; }
+    .l8 { animation-delay: 1.74s; } .l9 { animation-delay: 1.82s; } .l10 { animation-delay: 1.90s; } .l11 { animation-delay: 2.15s; }
+    .cursor { animation: show .01s linear 2.15s both, blink 1.1s steps(1) 2.15s infinite; }
+    @keyframes type { from { transform: translateX(-100px); } to { transform: translateX(0); } }
+    @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .type, .out, .cursor { animation: none; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="1199" height="539" rx="14" fill="#0b1220" stroke="#1f2a44"/>
+  <path d="M14.5 0.5h1171a14 14 0 0 1 14 14v29.5H0.5V14.5a14 14 0 0 1 14-14z" fill="#111a2e"/>
+  <line x1="0.5" y1="44" x2="1199.5" y2="44" stroke="#1f2a44"/>
+  <circle cx="26" cy="22" r="6.5" fill="#f87171"/><circle cx="48" cy="22" r="6.5" fill="#fbbf24"/><circle cx="70" cy="22" r="6.5" fill="#4ade80"/>
+  <text x="600" y="27" text-anchor="middle" class="m k" style="font-size:14px">fabian@xkodigo1: ~ — bash — 120×32</text>
+
+  <!-- command -->
+  <text x="40" y="94" class="m" textLength="205" lengthAdjust="spacingAndGlyphs"><tspan class="g bold">fabian@xkodigo1</tspan><tspan class="w">:</tspan><tspan class="b bold">~</tspan><tspan class="w">$</tspan></text>
+  <text x="257" y="94" class="m w">neofetch</text>
+  <rect x="357" y="72" width="100" height="30" fill="#0b1220" class="type"/>
+
+  <!-- logo: generated ASCII spiral -->
+  <g class="out l0">
+    <path fill="#4ade80" d="M168.0 180.0h4.0v12.5h-4.0zM173.0 180.0h4.0v6.2h-4.0zM177.0 186.2h4.0v6.2h-4.0zM209.0 180.0h4.0v6.2h-4.0zM213.0 186.2h4.0v6.2h-4.0zM218.0 180.0h4.0v6.2h-4.0zM222.0 186.2h4.0v6.2h-4.0zM227.0 180.0h4.0v6.2h-4.0zM231.0 186.2h4.0v6.2h-4.0zM263.0 207.0h4.0v6.2h-4.0zM267.0 213.2h4.0v6.2h-4.0zM164.0 226.8h8.0v6.2h-8.0zM173.0 220.5h8.0v12.5h-8.0zM182.0 220.5h8.0v12.5h-8.0zM191.0 220.5h8.0v12.5h-8.0zM200.0 220.5h8.0v12.5h-8.0zM209.0 220.5h8.0v12.5h-8.0zM218.0 220.5h4.0v6.2h-4.0zM222.0 226.8h4.0v6.2h-4.0zM276.0 220.5h4.0v12.5h-4.0zM155.0 234.0h8.0v12.5h-8.0zM164.0 240.2h8.0v6.2h-8.0zM227.0 234.0h8.0v12.5h-8.0zM236.0 234.0h8.0v12.5h-8.0zM285.0 234.0h4.0v12.5h-4.0zM137.0 253.8h8.0v6.2h-8.0zM146.0 247.5h8.0v12.5h-8.0zM236.0 247.5h8.0v12.5h-8.0zM245.0 247.5h4.0v6.2h-4.0zM249.0 253.8h4.0v6.2h-4.0zM137.0 261.0h8.0v12.5h-8.0zM182.0 261.0h8.0v12.5h-8.0zM191.0 261.0h8.0v12.5h-8.0zM200.0 261.0h8.0v12.5h-8.0zM245.0 261.0h8.0v12.5h-8.0zM290.0 261.0h4.0v12.5h-4.0zM137.0 280.8h8.0v6.2h-8.0zM177.0 274.5h4.0v12.5h-4.0zM182.0 274.5h8.0v12.5h-8.0zM200.0 274.5h8.0v12.5h-8.0zM236.0 274.5h8.0v6.2h-8.0zM245.0 274.5h8.0v12.5h-8.0zM290.0 274.5h4.0v12.5h-4.0zM137.0 288.0h8.0v12.5h-8.0zM177.0 288.0h4.0v12.5h-4.0zM182.0 288.0h8.0v12.5h-8.0zM236.0 288.0h8.0v12.5h-8.0zM245.0 288.0h8.0v12.5h-8.0zM290.0 288.0h4.0v6.2h-4.0zM294.0 294.2h4.0v6.2h-4.0zM137.0 301.5h8.0v12.5h-8.0zM182.0 301.5h8.0v12.5h-8.0zM191.0 301.5h8.0v12.5h-8.0zM200.0 301.5h8.0v12.5h-8.0zM209.0 301.5h4.0v6.2h-4.0zM213.0 307.8h4.0v6.2h-4.0zM218.0 301.5h8.0v12.5h-8.0zM227.0 301.5h8.0v12.5h-8.0zM236.0 301.5h8.0v12.5h-8.0zM285.0 301.5h4.0v12.5h-4.0zM146.0 315.0h8.0v12.5h-8.0zM209.0 315.0h4.0v6.2h-4.0zM213.0 321.2h4.0v6.2h-4.0zM272.0 315.0h4.0v12.5h-4.0zM146.0 328.5h4.0v12.5h-4.0zM159.0 328.5h4.0v12.5h-4.0zM263.0 328.5h8.0v6.2h-8.0zM164.0 342.0h8.0v6.2h-8.0zM173.0 348.2h8.0v6.2h-8.0zM182.0 342.0h4.0v6.2h-4.0zM186.0 348.2h4.0v6.2h-4.0zM245.0 348.2h8.0v6.2h-8.0zM254.0 348.2h8.0v6.2h-8.0zM200.0 361.8h8.0v6.2h-8.0zM209.0 355.5h8.0v12.5h-8.0z"/>
+    <g class="m" font-size="13" font-weight="700" text-anchor="middle">
+      <text y="136.5" fill="#15803d" x="78.5 159.5 231.5 294.5">';.'</text>
+      <text y="136.5" fill="#22c55e" x="168.5 177.5 186.5 195.5 213.5 222.5 303.5 312.5">+^&gt;&gt;=*//</text>
+      <text y="136.5" fill="#4ade80" x="204.5">k</text>
+      <text y="150.0" fill="#15803d" x="60.5 132.5 195.5 267.5 276.5 321.5 330.5">';-.:;:</text>
+      <text y="150.0" fill="#22c55e" x="69.5 141.5 159.5 177.5 186.5 204.5 222.5">\=+^&gt;&gt;/</text>
+      <text y="150.0" fill="#4ade80" x="150.5 168.5 213.5 231.5 240.5 249.5 258.5">kbk[RUa</text>
+      <text y="163.5" fill="#15803d" x="105.5 150.5 330.5 348.5">:`',</text>
+      <text y="163.5" fill="#22c55e" x="123.5 132.5 141.5 249.5 258.5 285.5 339.5">(/&gt;|*)~</text>
+      <text y="163.5" fill="#4ade80" x="114.5 267.5 276.5">Pkn</text>
+      <text y="177.0" fill="#14532d" x="312.5">:</text>
+      <text y="177.0" fill="#15803d" x="87.5 168.5 213.5 231.5 267.5 303.5">,,.:,;</text>
+      <text y="177.0" fill="#22c55e" x="96.5 114.5 177.5 186.5 222.5 276.5 348.5">~=/~*&lt;~</text>
+      <text y="177.0" fill="#4ade80" x="105.5 195.5 204.5 285.5 294.5">x3vUR</text>
+      <text y="190.5" fill="#15803d" x="105.5 141.5 258.5 348.5">`:`,</text>
+      <text y="190.5" fill="#22c55e" x="78.5 294.5 312.5">^&lt;=</text>
+      <text y="190.5" fill="#4ade80" x="87.5 96.5 150.5 159.5 186.5 195.5 240.5 249.5 303.5">dHRR5L{s5</text>
+      <text y="190.5" fill="#86efac" x="204.5">@</text>
+      <text y="204.0" fill="#14532d" x="204.5">:</text>
+      <text y="204.0" fill="#15803d" x="69.5 222.5">,`</text>
+      <text y="204.0" fill="#22c55e" x="78.5 87.5 123.5 159.5 168.5 231.5 303.5">^&gt;**\)*</text>
+      <text y="204.0" fill="#4ade80" x="132.5 267.5 312.5 321.5">hC9Z</text>
+      <text y="204.0" fill="#86efac" x="141.5 150.5 240.5 249.5 258.5">##W&amp;#</text>
+      <text y="217.5" fill="#15803d" x="186.5 285.5">`.</text>
+      <text y="217.5" fill="#22c55e" x="60.5 69.5 78.5 141.5 195.5 204.5 312.5 330.5">&gt;+==(()/</text>
+      <text y="217.5" fill="#4ade80" x="114.5 123.5 132.5 258.5 321.5">HdAXC</text>
+      <text y="217.5" fill="#86efac" x="276.5">#</text>
+      <text y="231.0" fill="#14532d" x="132.5">:</text>
+      <text y="231.0" fill="#15803d" x="240.5 294.5 339.5">;';</text>
+      <text y="231.0" fill="#22c55e" x="60.5 69.5 123.5 159.5 267.5">*^&lt;=^</text>
+      <text y="231.0" fill="#4ade80" x="105.5 231.5 285.5 321.5 330.5">exbrC</text>
+      <text y="231.0" fill="#86efac" x="114.5">#</text>
+      <text y="244.5" fill="#15803d" x="141.5 186.5 204.5">;;`</text>
+      <text y="244.5" fill="#22c55e" x="213.5 276.5 294.5 321.5 339.5">(*(|(</text>
+      <text y="244.5" fill="#4ade80" x="60.5 96.5 114.5 177.5 249.5 330.5">9ryq{9</text>
+      <text y="244.5" fill="#86efac" x="105.5 150.5 222.5">BQB</text>
+      <text y="258.0" fill="#14532d" x="204.5">:</text>
+      <text y="258.0" fill="#15803d" x="87.5 114.5 132.5 276.5 303.5 321.5 348.5">;`';:-;</text>
+      <text y="258.0" fill="#22c55e" x="60.5 231.5 258.5">=/*</text>
+      <text y="258.0" fill="#4ade80" x="96.5 105.5 330.5 339.5">b4K3</text>
+      <text y="258.0" fill="#86efac" x="159.5 285.5 294.5">#$@</text>
+      <text y="271.5" fill="#22c55e" x="60.5 303.5">\)</text>
+      <text y="271.5" fill="#4ade80" x="87.5 105.5 132.5 177.5 213.5 258.5 285.5 330.5 339.5">qZqH?bqK?</text>
+      <text y="271.5" fill="#86efac" x="96.5 150.5 240.5">W0@</text>
+      <text y="285.0" fill="#15803d" x="105.5 195.5 276.5 348.5">'..,</text>
+      <text y="285.0" fill="#22c55e" x="60.5 87.5 150.5 168.5 303.5">\=\(|</text>
+      <text y="285.0" fill="#4ade80" x="258.5 330.5 339.5">RY}</text>
+      <text y="285.0" fill="#86efac" x="96.5 132.5 213.5 285.5">$QN#</text>
+      <text y="298.5" fill="#14532d" x="69.5 123.5">'.</text>
+      <text y="298.5" fill="#15803d" x="60.5 258.5 303.5 321.5">;-`,</text>
+      <text y="298.5" fill="#22c55e" x="105.5 150.5 168.5 195.5 339.5">()|^&lt;</text>
+      <text y="298.5" fill="#4ade80" x="87.5 231.5 330.5">?2y</text>
+      <text y="298.5" fill="#86efac" x="96.5 132.5 285.5">N0$</text>
+      <text y="312.0" fill="#22c55e" x="60.5 249.5 321.5 339.5">&lt;|&lt;)</text>
+      <text y="312.0" fill="#4ade80" x="87.5 105.5 150.5 177.5 276.5 294.5 330.5">YkLddH[</text>
+      <text y="312.0" fill="#86efac" x="96.5 132.5">#B</text>
+      <text y="325.5" fill="#15803d" x="87.5 132.5 186.5 339.5">;-.:</text>
+      <text y="325.5" fill="#22c55e" x="60.5">~</text>
+      <text y="325.5" fill="#4ade80" x="105.5 159.5 195.5 231.5 267.5 285.5 321.5 330.5">7rzuU7E[</text>
+      <text y="325.5" fill="#86efac" x="96.5 141.5 204.5 222.5">NN%8</text>
+      <text y="339.0" fill="#14532d" x="222.5">.</text>
+      <text y="339.0" fill="#15803d" x="69.5 177.5 285.5">;-.</text>
+      <text y="339.0" fill="#22c55e" x="60.5 96.5 114.5 141.5 312.5 330.5">/))&lt;&gt;(</text>
+      <text y="339.0" fill="#4ade80" x="249.5 276.5 321.5">]{T</text>
+      <text y="339.0" fill="#86efac" x="105.5 168.5 258.5">8@W</text>
+      <text y="352.5" fill="#15803d" x="69.5 96.5 150.5">,,,</text>
+      <text y="352.5" fill="#22c55e" x="60.5 123.5 267.5">\*~</text>
+      <text y="352.5" fill="#4ade80" x="105.5 204.5 213.5 303.5 312.5 321.5">?3Drqy</text>
+      <text y="352.5" fill="#86efac" x="114.5 159.5 195.5 222.5 231.5 240.5">N&amp;N#W0</text>
+      <text y="366.0" fill="#14532d" x="330.5">'</text>
+      <text y="366.0" fill="#15803d" x="78.5 141.5 285.5 348.5">';:.</text>
+      <text y="366.0" fill="#22c55e" x="60.5 114.5 177.5 249.5 294.5 312.5">|=&lt;^=&lt;</text>
+      <text y="366.0" fill="#4ade80" x="69.5 132.5 186.5 240.5">dxqL</text>
+      <text y="366.0" fill="#86efac" x="123.5 195.5 222.5 231.5 303.5">0&amp;0MW</text>
+      <text y="379.5" fill="#15803d" x="69.5 87.5">;,</text>
+      <text y="379.5" fill="#22c55e" x="78.5 123.5 150.5 267.5 303.5 339.5 348.5">~+\//&lt;&lt;</text>
+      <text y="379.5" fill="#4ade80" x="132.5 276.5 285.5 294.5">C5ZC</text>
+      <text y="379.5" fill="#86efac" x="141.5">#</text>
+      <text y="393.0" fill="#14532d" x="204.5">'</text>
+      <text y="393.0" fill="#15803d" x="96.5 186.5 213.5 222.5 231.5 285.5 348.5">:,:.,`'</text>
+      <text y="393.0" fill="#22c55e" x="78.5 87.5 141.5 177.5 195.5 330.5 339.5">&gt;/&gt;+)+&lt;</text>
+      <text y="393.0" fill="#4ade80" x="159.5 168.5 240.5 249.5 258.5 276.5">C]5HA]</text>
+      <text y="393.0" fill="#86efac" x="150.5 267.5">8$</text>
+      <text y="406.5" fill="#15803d" x="114.5 330.5">:;</text>
+      <text y="406.5" fill="#22c55e" x="96.5 105.5 168.5 258.5 312.5 321.5">((/+=/</text>
+      <text y="406.5" fill="#4ade80" x="177.5 186.5 195.5 204.5 231.5 240.5 249.5">vt3Tve{</text>
+      <text y="406.5" fill="#86efac" x="213.5 222.5">%B</text>
+      <text y="420.0" fill="#15803d" x="96.5 105.5 132.5 321.5">'';:</text>
+      <text y="420.0" fill="#22c55e" x="114.5 123.5 294.5 303.5 312.5">&lt;&gt;&gt;*&lt;</text>
+      <text y="433.5" fill="#15803d" x="60.5 69.5 114.5 159.5 168.5 177.5 249.5 276.5 294.5">;:;:,:;:.</text>
+      <text y="433.5" fill="#22c55e" x="123.5 132.5 150.5 258.5 267.5 285.5">)/=\=\</text>
+      <text y="433.5" fill="#4ade80" x="141.5">3</text>
+    </g>
+  </g>
+
+  <!-- info -->
+  <g class="out l1"><text x="420" y="160" class="m"><tspan class="g bold">fabian</tspan><tspan class="w">@</tspan><tspan class="b bold">xkodigo1</tspan></text></g>
+  <g class="out l2"><text x="420" y="188" class="m k">──────────────────</text></g>
+  <g class="out l3"><text x="420" y="222" class="m b bold">Role</text><text x="560" y="222" class="m v">Backend Developer</text></g>
+  <g class="out l4"><text x="420" y="252" class="m b bold">Location</text><text x="560" y="252" class="m v">Colombia</text></g>
+  <g class="out l5"><text x="420" y="282" class="m b bold">Focus</text><text x="560" y="282" class="m v">Business systems · secure APIs · RBAC</text></g>
+  <g class="out l6"><text x="420" y="312" class="m b bold">Arch</text><text x="560" y="312" class="m v">Clean &amp; modular</text></g>
+  <g class="out l7"><text x="420" y="342" class="m b bold">Langs</text><text x="560" y="342" class="m v">TypeScript · C# · Python · Rust · SQL</text></g>
+  <g class="out l8"><text x="420" y="372" class="m b bold">Runtime</text><text x="560" y="372" class="m v">Node.js · .NET · FastAPI · Tauri</text></g>
+  <g class="out l9"><text x="420" y="402" class="m b bold">DB</text><text x="560" y="402" class="m v">PostgreSQL · MySQL · SQLite</text></g>
+  <g class="out l10"><text x="420" y="432" class="m b bold">Now</text><text x="560" y="432" class="m"><tspan class="v">Building </tspan><tspan class="a bold">RouDex</tspan><tspan class="v">, a local-first model router</tspan></text></g>
+  <g class="out l10">
+    <rect x="420" y="452" width="34" height="18" fill="#1e293b"/><rect x="454" y="452" width="34" height="18" fill="#f87171"/>
+    <rect x="488" y="452" width="34" height="18" fill="#4ade80"/><rect x="522" y="452" width="34" height="18" fill="#fbbf24"/>
+    <rect x="556" y="452" width="34" height="18" fill="#3b82f6"/><rect x="590" y="452" width="34" height="18" fill="#22c55e"/>
+    <rect x="624" y="452" width="34" height="18" fill="#22d3ee"/><rect x="658" y="452" width="34" height="18" fill="#e2e8f0"/>
+  </g>
+
+  <!-- next prompt -->
+  <g class="out l11"><text x="40" y="510" class="m" textLength="205" lengthAdjust="spacingAndGlyphs"><tspan class="g bold">fabian@xkodigo1</tspan><tspan class="w">:</tspan><tspan class="b bold">~</tspan><tspan class="w">$</tspan></text></g>
+  <rect x="257" y="494" width="11" height="21" fill="#e2e8f0" class="cursor"/>
+</svg>
