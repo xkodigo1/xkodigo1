@@ -44,11 +44,14 @@ My interest is not just writing code. I care about turning business processes in
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-6b21a8?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend and Platforms
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-0e7490?style=for-the-badge&logo=react&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24c8db?style=for-the-badge&logo=tauri&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0891b2?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-4c1d95?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -66,6 +69,53 @@ My interest is not just writing code. I care about turning business processes in
 <div align="center">
   <img src="./assets/profile/section-work.svg" alt="Selected Work section banner" width="100%"/>
 </div>
+
+### Open Source and Personal Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/xkodigo1/RouDex">RouDex</a></h3>
+      <p>Local-first desktop app that routes each prompt to the right model tier: simple tasks go to cheaper models, complex or risky ones to stronger models. Runs on top of the Codex app server, tracks token usage and estimated savings, and executes spec-driven task plans with verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-Tauri-b7410e?style=flat-square" alt="Rust Tauri"/>
+        <img src="https://img.shields.io/badge/React-Desktop%20UI-0891b2?style=flat-square" alt="React Desktop UI"/>
+        <img src="https://img.shields.io/badge/Focus-AI%20Dev%20Tooling-0f172a?style=flat-square" alt="AI Dev Tooling"/>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/xkodigo1/OpenJobEngine">OpenJobEngine</a></h3>
+      <p>Backend engine for job aggregation, data normalization, vacancy history, background processing, CV parsing, and explainable matching for opportunity discovery workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-ASP.NET%20Core-6b21a8?style=flat-square" alt="C# ASP.NET Core"/>
+        <img src="https://img.shields.io/badge/SQLite-PostgreSQL-334155?style=flat-square" alt="SQLite PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Architecture-Clean-166534?style=flat-square" alt="Clean Architecture"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/xkodigo1/docsflow-project">DocsFlow</a></h3>
+      <p>Document management system that extracts tables from uploaded PDFs, with JWT auth, admin and operator roles, department-level access control, processing states, and an administrative dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-FastAPI-0891b2?style=flat-square" alt="Python FastAPI"/>
+        <img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square" alt="React TypeScript"/>
+        <img src="https://img.shields.io/badge/MySQL-pdfplumber-0f766e?style=flat-square" alt="MySQL pdfplumber"/>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/xkodigo1/reservation-manager-fastapi">Reservation Manager API</a></h3>
+      <p>REST API for coworking room reservations with JWT authentication, user and admin roles, overlap prevention, one-hour slot rules, basic reporting, and Swagger documentation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-FastAPI-0891b2?style=flat-square" alt="Python FastAPI"/>
+        <img src="https://img.shields.io/badge/Auth-JWT%20%26%20Roles-166534?style=flat-square" alt="JWT and Roles"/>
+        <img src="https://img.shields.io/badge/Docs-Swagger-0f172a?style=flat-square" alt="Swagger"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Team and Professional Work
 
 <table>
   <tr>
@@ -98,19 +148,11 @@ My interest is not just writing code. I care about turning business processes in
         <img src="https://img.shields.io/badge/Focus-MVP%20Collaboration-0f172a?style=flat-square" alt="MVP Collaboration"/>
       </p>
     </td>
-    <td valign="top" width="50%">
-      <h3>OpenJobEngine</h3>
-      <p>Personal backend project focused on job aggregation, data normalization, vacancy history, background processing, CV parsing, and explainable matching for opportunity discovery workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-ASP.NET%20Core-6b21a8?style=flat-square" alt="C# ASP.NET Core"/>
-        <img src="https://img.shields.io/badge/SQLite-PostgreSQL-334155?style=flat-square" alt="SQLite PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Ownership-Personal%20Project-f59e0b?style=flat-square" alt="Personal Project"/>
-      </p>
-    </td>
+    <td valign="top" width="50%"></td>
   </tr>
 </table>
 
-> `Apex`, `Agora`, and `KoalaWS` are presented as projects where I had meaningful technical participation and delivery, while `OpenJobEngine` is my own backend initiative.
+> `Apex`, `Agora`, and `KoalaWS` are private team projects where I had meaningful technical participation and delivery; their code is not public.
 
 ---
 
@@ -123,6 +165,7 @@ My interest is not just writing code. I care about turning business processes in
 - Document workflows, PDF-related processes, and data handling pipelines.
 - SQL-backed applications where domain entities and process flows matter.
 - Product-oriented implementation with attention to architecture and maintainability.
+- Local-first developer tooling for AI coding agents: model routing, usage tracking, and verified task execution.
 
 ---
 
@@ -131,7 +174,6 @@ My interest is not just writing code. I care about turning business processes in
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xkodigo1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkodigo1&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
 </p>
 
